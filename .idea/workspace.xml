@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a61ed9b-a2bf-426c-9b36-7b5b24a30263" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ayago/datastructures/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ayago/datastructures/DynamicArrayTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2mlqSjHRPP2NqDBqeLht856Ccb1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DynamicArrayTest.appendElementArray.executor": "Run",
+    "JUnit.DynamicArrayTest.appendMultipleElementsArray.executor": "Run",
+    "JUnit.DynamicArrayTest.emptyArray.executor": "Run",
+    "JUnit.DynamicArrayTest.executor": "Run",
+    "JUnit.DynamicArrayTest.insertElementAtFirstIndexOnNonEmptyArray.executor": "Debug",
+    "JUnit.DynamicArrayTest.insertElementAtFirstPosition.executor": "Run",
+    "JUnit.DynamicArrayTest.insertElementAtIndexGreaterThanCapacity.executor": "Run",
+    "JUnit.DynamicArrayTest.insertElementAtMiddleOfArray.executor": "Run",
+    "JUnit.DynamicArrayTest.insertElementAtNegativeIndex.executor": "Run",
+    "JUnit.DynamicArrayTest.removeElement.executor": "Debug",
+    "JUnit.DynamicArrayTest.removeElementAtEarlyMiddle.executor": "Run",
+    "JUnit.DynamicArrayTest.removeElementAtTheMiddle.executor": "Run",
+    "JUnit.DynamicArrayTest.removeNonExistingElement.executor": "Run",
+    "JUnit.DynamicArrayTest.removeOnEmptyArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.DynamicArrayTest">
+    <configuration name="DynamicArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayago.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayago.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="com.ayago.datastructures.DynamicArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArrayTest.removeElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayago.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayago.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="com.ayago.datastructures.DynamicArrayTest" />
+      <option name="METHOD_NAME" value="removeElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArrayTest.removeElementAtEarlyMiddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayago.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayago.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="com.ayago.datastructures.DynamicArrayTest" />
+      <option name="METHOD_NAME" value="removeElementAtEarlyMiddle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArrayTest.removeElementAtTheMiddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayago.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayago.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="com.ayago.datastructures.DynamicArrayTest" />
+      <option name="METHOD_NAME" value="removeElementAtTheMiddle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynamicArrayTest.removeNonExistingElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ayago.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ayago.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="com.ayago.datastructures.DynamicArrayTest" />
+      <option name="METHOD_NAME" value="removeNonExistingElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DynamicArrayTest" />
+        <item itemvalue="JUnit.DynamicArrayTest.removeElementAtEarlyMiddle" />
+        <item itemvalue="JUnit.DynamicArrayTest.removeElementAtTheMiddle" />
+        <item itemvalue="JUnit.DynamicArrayTest.removeElement" />
+        <item itemvalue="JUnit.DynamicArrayTest.removeNonExistingElement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a61ed9b-a2bf-426c-9b36-7b5b24a30263" name="Changes" comment="" />
+      <created>1727661512304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727661512304</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ayago/datastructures/DynamicArray.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
